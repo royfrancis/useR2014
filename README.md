@@ -1,7 +1,7 @@
 useR! 2014 Design
 ========================================================
 
-This is some R code for creating a nice useR! 2014 design.
+This is some R code for creating a nice useR! 2014 design. The image will be slightly different each time due to the jitter function. Well, you have a very unique image! :-)
 
 
 ![DesignImage](useR.png)
