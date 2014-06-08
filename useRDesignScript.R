@@ -1,4 +1,5 @@
-#useR! Design R Script
+#useR! Design R Script 2014
+#roy francis
 
 #load libraries
 require(ggplot2)
